@@ -1,0 +1,7 @@
+.grid {
+   display: flex; /*a flex container*/
+   flex-wrap: wrap; /* if you have 6 items there will be 2 rows of 3 items */
+   height: 300px;
+   width: 400px;
+}
+
